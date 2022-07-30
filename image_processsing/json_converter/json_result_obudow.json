@@ -1,0 +1,192 @@
+[
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/8_20.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "KOb_kontenerObudow",
+        "prediction": {
+            "id": "7655589401925255168",
+            "predicted": "KOb_kontenerObudow",
+            "confidences": 0.9979085,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.024151014,
+                0.9815674
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/3_9.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "KOb_kontenerObudow",
+        "prediction": {
+            "id": "7655589401925255168",
+            "predicted": "KOb_kontenerObudow",
+            "confidences": 0.9972952,
+            "bboxes": [
+                0.042139173,
+                1.0,
+                0.016304178,
+                0.954346
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/43_02.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "KOb_kontenerObudow",
+        "prediction": {
+            "id": "7655589401925255168",
+            "predicted": "KOb_kontenerObudow",
+            "confidences": 0.9985411,
+            "bboxes": [
+                0.001990497,
+                1.0,
+                0.013938158,
+                1.0
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/11_11.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "KOb_kontenerObudow",
+        "prediction": {
+            "id": "7655589401925255168",
+            "predicted": "KOb_kontenerObudow",
+            "confidences": 0.99836534,
+            "bboxes": [
+                0.0059248507,
+                1.0,
+                0.009580072,
+                0.99205214
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/8_22.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "KOb_kontenerObudow",
+        "prediction": {
+            "id": "7655589401925255168",
+            "predicted": "KOb_kontenerObudow",
+            "confidences": 0.99620557,
+            "bboxes": [
+                0.0,
+                0.9865917,
+                0.009887695,
+                0.97265583
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/5_01.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "KOb_kontenerObudow",
+        "prediction": {
+            "id": "7655589401925255168",
+            "predicted": "KOb_kontenerObudow",
+            "confidences": 0.99754375,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.026890345,
+                0.99065584
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/6_5.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "KOb_kontenerObudow",
+        "prediction": {
+            "id": "7655589401925255168",
+            "predicted": "KOb_kontenerObudow",
+            "confidences": 0.99772567,
+            "bboxes": [
+                0.01588434,
+                1.0,
+                0.014544033,
+                0.9811906
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/49_12.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "KOb_kontenerObudow",
+        "prediction": {
+            "id": "7655589401925255168",
+            "predicted": "KOb_kontenerObudow",
+            "confidences": 0.9984048,
+            "bboxes": [
+                0.002044797,
+                1.0,
+                0.010121206,
+                0.9953897
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/8_16.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "KOb_kontenerObudow",
+        "prediction": {
+            "id": "7655589401925255168",
+            "predicted": "KOb_kontenerObudow",
+            "confidences": 0.996931,
+            "bboxes": [
+                0.0,
+                0.99981344,
+                0.025614941,
+                0.99607176
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/38_07.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "KOb_kontenerObudow",
+        "prediction": {
+            "id": "7655589401925255168",
+            "predicted": "KOb_kontenerObudow",
+            "confidences": 0.99852884,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.031300467,
+                0.9825747
+            ]
+        }
+    }
+]

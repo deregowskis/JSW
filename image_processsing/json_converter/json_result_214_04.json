@@ -1,0 +1,211 @@
+[
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/8_13.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "JZR214_04",
+        "prediction": {
+            "id": "6502667897318408192",
+            "predicted": "JZR214_04",
+            "confidences": 0.9678757,
+            "bboxes": [
+                0.007265508,
+                1.0,
+                0.0,
+                0.98179406
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/10_6.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "JZR214_04",
+        "prediction": {
+            "id": "6502667897318408192",
+            "predicted": "JZR214_04",
+            "confidences": 0.98877907,
+            "bboxes": [
+                0.0561876,
+                1.0,
+                0.002843462,
+                0.9691814
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/21_7.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "JZR214_04",
+        "prediction": {
+            "id": "6502667897318408192",
+            "predicted": "JZR214_04",
+            "confidences": 0.99538827,
+            "bboxes": [
+                0.028050572,
+                1.0,
+                0.001361249,
+                0.9737814
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/7_07.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "JZR214_04",
+        "prediction": {
+            "id": "6502667897318408192",
+            "predicted": "JZR214_04",
+            "confidences": 0.99967027,
+            "bboxes": [
+                0.03768325,
+                1.0,
+                0.0005745049,
+                1.0
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/44_08.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "JZR214_04",
+        "prediction": {
+            "id": "6502667897318408192",
+            "predicted": "JZR214_04",
+            "confidences": 0.9968876,
+            "bboxes": [
+                0.0040673018,
+                1.0,
+                0.010544439,
+                1.0
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/25_02.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "JZR214_04",
+        "prediction": {
+            "id": "6502667897318408192",
+            "predicted": "JZR214_04",
+            "confidences": 0.9965463,
+            "bboxes": [
+                0.035833508,
+                1.0,
+                0.0032544995,
+                0.97081447
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/7_06.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "JZR214_04",
+        "prediction": {
+            "id": "6502667897318408192",
+            "predicted": "JZR214_04",
+            "confidences": 0.9977082,
+            "bboxes": [
+                0.06933609,
+                1.0,
+                0.0029729982,
+                0.9629959
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/43_04.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "JZR214_04",
+        "prediction": {
+            "id": "6502667897318408192",
+            "predicted": "JZR214_04",
+            "confidences": 0.992645,
+            "bboxes": [
+                0.031386137,
+                1.0,
+                0.0013882181,
+                1.0
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/34_03.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "JZR214_04",
+        "prediction": {
+            "id": "6502667897318408192",
+            "predicted": "JZR214_04",
+            "confidences": 0.97304416,
+            "bboxes": [
+                0.04128927,
+                0.998306,
+                0.0025051436,
+                0.9545517
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/42_01.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "JZR214_04",
+        "prediction": {
+            "id": "6502667897318408192",
+            "predicted": "JZR214_04",
+            "confidences": 0.98111385,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.0018732081,
+                0.9677775
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/44_03.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "False",
+        "actual": "JZR214_04",
+        "prediction": {
+            "id": "8808510906532102144",
+            "predicted": "JZR_214_01",
+            "confidences": 0.86725295,
+            "bboxes": [
+                0.0,
+                0.9916407,
+                0.027664267,
+                0.96950114
+            ]
+        }
+    }
+]

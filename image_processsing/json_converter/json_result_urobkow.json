@@ -1,0 +1,230 @@
+[
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/8_23.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "urobkow",
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.9854672,
+            "bboxes": [
+                0.0022359192,
+                0.9939083,
+                0.0,
+                0.9877558
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/22_06.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "urobkow",
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.9798924,
+            "bboxes": [
+                0.00081533194,
+                0.9892903,
+                0.0,
+                0.94558406
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/14_3.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "urobkow",
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.8725854,
+            "bboxes": [
+                0.0,
+                0.99742603,
+                0.00764792,
+                0.99863774
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/19_08.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "urobkow",
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.9940394,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.0,
+                0.99650043
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/5_24.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "urobkow",
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.6190314,
+            "bboxes": [
+                0.0,
+                0.9918526,
+                0.0021603827,
+                0.9920203
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/19_17.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "urobkow",
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.9835081,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.0,
+                0.9571937
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/28_13.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "urobkow",
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.98859733,
+            "bboxes": [
+                0.0,
+                0.9928581,
+                0.0,
+                0.99999994
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/10_10.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "urobkow",
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.9939002,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.0,
+                0.99797314
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/32_10.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "urobkow",
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.99378985,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.0,
+                1.0
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/14_2.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "urobkow",
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.8008164,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.003305599,
+                1.0
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/17_02.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "urobkow",
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.9904289,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.0,
+                0.9793414
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/5_10.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "urobkow",
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.9766332,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.0,
+                1.0
+            ]
+        }
+    }
+]

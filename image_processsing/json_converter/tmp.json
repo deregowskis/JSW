@@ -1,0 +1,2280 @@
+[
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/73.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.9145419,
+            "bboxes": [
+                0.0,
+                0.90862274,
+                0.0,
+                0.99708486
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/115.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "7655589401925255168",
+            "predicted": "KOb_kontenerObudow",
+            "confidences": 0.9372608,
+            "bboxes": [
+                0.013520092,
+                0.94958925,
+                0.005095861,
+                0.97059953
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/96.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "8808510906532102144",
+            "predicted": "JZR_214_01",
+            "confidences": 0.97424626,
+            "bboxes": [
+                0.0,
+                0.98881495,
+                0.03186598,
+                1.0
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/17.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "7655589401925255168",
+            "predicted": "KOb_kontenerObudow",
+            "confidences": 0.9159685,
+            "bboxes": [
+                0.033658475,
+                0.9964223,
+                0.0,
+                0.9390435
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/124.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "7655589401925255168",
+            "predicted": "KOb_kontenerObudow",
+            "confidences": 0.99640465,
+            "bboxes": [
+                0.03364724,
+                1.0,
+                0.00044967752,
+                0.9736239
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/110.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.9435898,
+            "bboxes": [
+                0.0,
+                0.8660337,
+                0.007795306,
+                1.0
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/11.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.9688496,
+            "bboxes": [
+                0.0036304593,
+                0.99549127,
+                0.0,
+                1.0
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/113.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.9658233,
+            "bboxes": [
+                0.021673769,
+                1.0,
+                0.013779809,
+                0.96442163
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/34.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.99349904,
+            "bboxes": [
+                0.0,
+                0.997982,
+                0.0,
+                1.0
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/42.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.8475551,
+            "bboxes": [
+                0.0,
+                0.8642927,
+                0.021061037,
+                1.0
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/52.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.84055537,
+            "bboxes": [
+                0.0,
+                0.75252986,
+                0.023149438,
+                0.95779127
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/39.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "7655589401925255168",
+            "predicted": "KOb_kontenerObudow",
+            "confidences": 0.92377806,
+            "bboxes": [
+                0.0,
+                0.9997049,
+                0.04269859,
+                0.9715091
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/32.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.8845822,
+            "bboxes": [
+                0.022799402,
+                1.0,
+                0.012321593,
+                1.0
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/94.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "8808510906532102144",
+            "predicted": "JZR_214_01",
+            "confidences": 0.95019966,
+            "bboxes": [
+                0.010629475,
+                1.0,
+                0.0,
+                1.0
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/101.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "8808510906532102144",
+            "predicted": "JZR_214_01",
+            "confidences": 0.9122602,
+            "bboxes": [
+                0.027982235,
+                0.7679226,
+                0.018309494,
+                0.9759743
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/26.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.71954876,
+            "bboxes": [
+                0.0,
+                0.7421179,
+                0.020462792,
+                0.939542
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/53.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.96912014,
+            "bboxes": [
+                0.0,
+                0.8280349,
+                0.0,
+                1.0
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/56.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.92520386,
+            "bboxes": [
+                0.0,
+                0.810956,
+                0.0,
+                0.9627912
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/30.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "7655589401925255168",
+            "predicted": "KOb_kontenerObudow",
+            "confidences": 0.53255486,
+            "bboxes": [
+                0.016189963,
+                0.6200578,
+                0.023669593,
+                0.95956165
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/127.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "4196824888104714240",
+            "predicted": "rzewiark",
+            "confidences": 0.67470443,
+            "bboxes": [
+                0.0,
+                0.88956887,
+                0.019047976,
+                0.927675
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/98.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.68708575,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.017100027,
+                0.9646897
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/66.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "8808510906532102144",
+            "predicted": "JZR_214_01",
+            "confidences": 0.94548994,
+            "bboxes": [
+                0.0,
+                0.9609734,
+                0.036320556,
+                0.95919406
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/100.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "8808510906532102144",
+            "predicted": "JZR_214_01",
+            "confidences": 0.9628482,
+            "bboxes": [
+                0.004111469,
+                0.9922586,
+                0.0,
+                0.99650955
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/19.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "7655589401925255168",
+            "predicted": "KOb_kontenerObudow",
+            "confidences": 0.8474567,
+            "bboxes": [
+                0.058944434,
+                0.9915589,
+                0.0,
+                0.91813654
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/90.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "8808510906532102144",
+            "predicted": "JZR_214_01",
+            "confidences": 0.8552313,
+            "bboxes": [
+                0.035230726,
+                1.0,
+                0.0,
+                0.97785145
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/24.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "3043903383497867264",
+            "predicted": "other",
+            "confidences": 0.63803566,
+            "bboxes": [
+                0.017858475,
+                0.966519,
+                0.0037692985,
+                0.9932956
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/18.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "7655589401925255168",
+            "predicted": "KOb_kontenerObudow",
+            "confidences": 0.93384975,
+            "bboxes": [
+                0.017585486,
+                0.99217033,
+                0.0,
+                0.9529757
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/22.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "3043903383497867264",
+            "predicted": "other",
+            "confidences": 0.46882495,
+            "bboxes": [
+                0.0,
+                0.9701599,
+                0.0,
+                0.9669063
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/82.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "7655589401925255168",
+            "predicted": "KOb_kontenerObudow",
+            "confidences": 0.9667263,
+            "bboxes": [
+                0.04075277,
+                1.0,
+                0.0,
+                0.9617283
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/93.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "8808510906532102144",
+            "predicted": "JZR_214_01",
+            "confidences": 0.9711577,
+            "bboxes": [
+                0.021884918,
+                1.0,
+                0.0,
+                0.9796786
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/84.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "7655589401925255168",
+            "predicted": "KOb_kontenerObudow",
+            "confidences": 0.4655428,
+            "bboxes": [
+                0.079439074,
+                0.9970043,
+                0.0,
+                0.95190406
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/49.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.67917806,
+            "bboxes": [
+                0.014979899,
+                1.0,
+                0.0,
+                1.0
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/12.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "5349746392711561216",
+            "predicted": "KZ_kontenerMater",
+            "confidences": 0.9140237,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.042131722,
+                1.0
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/3.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.7502331,
+            "bboxes": [
+                0.023884177,
+                1.0,
+                0.0013980195,
+                0.98330957
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/80.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.66609854,
+            "bboxes": [
+                0.030329648,
+                0.99999994,
+                0.0,
+                1.0
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/46.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.9299091,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.011778804,
+                1.0
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/97.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "8808510906532102144",
+            "predicted": "JZR_214_01",
+            "confidences": 0.6996001,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.0,
+                0.9694072
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/126.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "4196824888104714240",
+            "predicted": "rzewiark",
+            "confidences": 0.95356137,
+            "bboxes": [
+                0.014260586,
+                0.88766146,
+                0.008659899,
+                0.92838925
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/132.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "3043903383497867264",
+            "predicted": "other",
+            "confidences": 0.42777678,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.0,
+                1.0
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/69.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "8808510906532102144",
+            "predicted": "JZR_214_01",
+            "confidences": 0.9757083,
+            "bboxes": [
+                0.0031646788,
+                1.0,
+                0.0,
+                0.9887749
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/119.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "7655589401925255168",
+            "predicted": "KOb_kontenerObudow",
+            "confidences": 0.94312143,
+            "bboxes": [
+                0.0,
+                0.9686361,
+                0.008693165,
+                0.9809517
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/71.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "8808510906532102144",
+            "predicted": "JZR_214_01",
+            "confidences": 0.9286788,
+            "bboxes": [
+                0.0,
+                0.9911046,
+                0.0020524757,
+                0.9774767
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/111.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.7731898,
+            "bboxes": [
+                0.013527751,
+                1.0,
+                0.019254507,
+                0.97509414
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/59.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.9747959,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.00040797642,
+                1.0
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/120.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "7655589401925255168",
+            "predicted": "KOb_kontenerObudow",
+            "confidences": 0.9840433,
+            "bboxes": [
+                0.015214145,
+                1.0,
+                0.0004179896,
+                0.99134475
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/8.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "5349746392711561216",
+            "predicted": "KZ_kontenerMater",
+            "confidences": 0.8737044,
+            "bboxes": [
+                0.0,
+                0.93982494,
+                0.06907645,
+                0.9828615
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/108.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.9598863,
+            "bboxes": [
+                0.0,
+                0.8590695,
+                0.0,
+                1.0
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/70.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.82386756,
+            "bboxes": [
+                0.0,
+                0.8412874,
+                0.009601817,
+                1.0
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/105.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "8808510906532102144",
+            "predicted": "JZR_214_01",
+            "confidences": 0.8730056,
+            "bboxes": [
+                0.029610783,
+                0.77738154,
+                0.025264265,
+                0.99116325
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/123.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "7655589401925255168",
+            "predicted": "KOb_kontenerObudow",
+            "confidences": 0.9716589,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.055759273,
+                0.9705366
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/116.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "7655589401925255168",
+            "predicted": "KOb_kontenerObudow",
+            "confidences": 0.96962166,
+            "bboxes": [
+                0.0,
+                0.96451515,
+                0.009474001,
+                0.9589262
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/95.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "8808510906532102144",
+            "predicted": "JZR_214_01",
+            "confidences": 0.96917075,
+            "bboxes": [
+                0.0,
+                0.9686463,
+                0.03180171,
+                0.995504
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/125.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "7655589401925255168",
+            "predicted": "KOb_kontenerObudow",
+            "confidences": 0.9947141,
+            "bboxes": [
+                0.0,
+                0.96691334,
+                0.0,
+                0.97365195
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/62.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "8808510906532102144",
+            "predicted": "JZR_214_01",
+            "confidences": 0.37356892,
+            "bboxes": [
+                0.054424584,
+                0.9944603,
+                0.0,
+                0.93929654
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/92.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "8808510906532102144",
+            "predicted": "JZR_214_01",
+            "confidences": 0.9357464,
+            "bboxes": [
+                0.033908784,
+                1.0,
+                0.004321564,
+                0.9868991
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/16.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "7655589401925255168",
+            "predicted": "KOb_kontenerObudow",
+            "confidences": 0.90784013,
+            "bboxes": [
+                0.018740386,
+                0.9953568,
+                0.0,
+                0.95434767
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/81.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "7655589401925255168",
+            "predicted": "KOb_kontenerObudow",
+            "confidences": 0.9917326,
+            "bboxes": [
+                0.0,
+                0.9882057,
+                0.03743966,
+                0.9764898
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/40.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "8808510906532102144",
+            "predicted": "JZR_214_01",
+            "confidences": 0.7427942,
+            "bboxes": [
+                0.026138097,
+                0.8257688,
+                0.026289066,
+                0.99151945
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/61.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.91286683,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.0059420303,
+                0.9856706
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/63.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "8808510906532102144",
+            "predicted": "JZR_214_01",
+            "confidences": 0.73685515,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.016181404,
+                0.94886017
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/133.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.9883102,
+            "bboxes": [
+                0.0,
+                0.9973635,
+                0.0074871653,
+                0.9825685
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/14.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "8808510906532102144",
+            "predicted": "JZR_214_01",
+            "confidences": 0.9231283,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.0,
+                0.98332983
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/88.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.89186156,
+            "bboxes": [
+                0.0,
+                0.9641607,
+                0.0,
+                0.9834553
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/44.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.62657815,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.006548978,
+                0.98587286
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/104.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "4196824888104714240",
+            "predicted": "rzewiark",
+            "confidences": 0.77844703,
+            "bboxes": [
+                0.0,
+                0.8195651,
+                0.0067732036,
+                0.87362516
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/85.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "7655589401925255168",
+            "predicted": "KOb_kontenerObudow",
+            "confidences": 0.5088711,
+            "bboxes": [
+                0.0660902,
+                1.0,
+                0.0,
+                0.9242728
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/60.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "8808510906532102144",
+            "predicted": "JZR_214_01",
+            "confidences": 0.4164201,
+            "bboxes": [
+                0.0007860248,
+                0.99257857,
+                0.0,
+                0.9216014
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/87.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.8552785,
+            "bboxes": [
+                0.0,
+                0.9678807,
+                0.0019181042,
+                1.0
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/103.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "4196824888104714240",
+            "predicted": "rzewiark",
+            "confidences": 0.88739127,
+            "bboxes": [
+                0.0009021599,
+                0.87687445,
+                0.072168976,
+                0.9232019
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/21.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "7655589401925255168",
+            "predicted": "KOb_kontenerObudow",
+            "confidences": 0.38340607,
+            "bboxes": [
+                0.0,
+                0.98487467,
+                0.08734773,
+                1.0
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/36.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.98724097,
+            "bboxes": [
+                0.0035308003,
+                1.0,
+                0.0,
+                1.0
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/50.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.9106247,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.0,
+                1.0
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/54.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.90581226,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.022295976,
+                0.9909844
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/68.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "8808510906532102144",
+            "predicted": "JZR_214_01",
+            "confidences": 0.98887056,
+            "bboxes": [
+                0.0,
+                0.982465,
+                0.012935325,
+                0.98714334
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/31.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "449829998132461568",
+            "predicted": "JZR_215_01",
+            "confidences": 0.4193103,
+            "bboxes": [
+                0.11889863,
+                0.9989184,
+                0.0052136476,
+                0.9199979
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/37.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "8808510906532102144",
+            "predicted": "JZR_214_01",
+            "confidences": 0.7694731,
+            "bboxes": [
+                0.0038350224,
+                1.0,
+                0.0,
+                0.9730301
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/67.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "8808510906532102144",
+            "predicted": "JZR_214_01",
+            "confidences": 0.9923286,
+            "bboxes": [
+                0.017228186,
+                0.99454397,
+                0.017789014,
+                0.9654329
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/38.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "8808510906532102144",
+            "predicted": "JZR_214_01",
+            "confidences": 0.89146405,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.014178225,
+                0.99370676
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/9.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "5349746392711561216",
+            "predicted": "KZ_kontenerMater",
+            "confidences": 0.644304,
+            "bboxes": [
+                0.013607643,
+                0.9943714,
+                0.070135325,
+                0.952037
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/64.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.8876744,
+            "bboxes": [
+                0.0,
+                0.8112209,
+                0.0021287634,
+                0.9941066
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/28.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "7655589401925255168",
+            "predicted": "KOb_kontenerObudow",
+            "confidences": 0.9368071,
+            "bboxes": [
+                0.12532863,
+                0.923223,
+                0.021111388,
+                1.0
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/13.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "8808510906532102144",
+            "predicted": "JZR_214_01",
+            "confidences": 0.9658739,
+            "bboxes": [
+                0.018606335,
+                0.9972216,
+                0.010778577,
+                0.98794925
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/86.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "7655589401925255168",
+            "predicted": "KOb_kontenerObudow",
+            "confidences": 0.51516294,
+            "bboxes": [
+                0.065565236,
+                1.0,
+                0.009630233,
+                0.94301915
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/27.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "3043903383497867264",
+            "predicted": "other",
+            "confidences": 0.6648879,
+            "bboxes": [
+                0.0070037246,
+                0.9791577,
+                0.049207103,
+                0.96142256
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/122.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "7655589401925255168",
+            "predicted": "KOb_kontenerObudow",
+            "confidences": 0.9807209,
+            "bboxes": [
+                0.006930262,
+                1.0,
+                0.03150924,
+                0.9748932
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/83.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "7655589401925255168",
+            "predicted": "KOb_kontenerObudow",
+            "confidences": 0.98498696,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.0,
+                0.96617055
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/91.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "8808510906532102144",
+            "predicted": "JZR_214_01",
+            "confidences": 0.97810066,
+            "bboxes": [
+                0.0,
+                0.98900527,
+                0.029119572,
+                0.9990731
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/20.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "3043903383497867264",
+            "predicted": "other",
+            "confidences": 0.52115047,
+            "bboxes": [
+                0.0,
+                0.9809706,
+                0.028429022,
+                0.9622949
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/15.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "8808510906532102144",
+            "predicted": "JZR_214_01",
+            "confidences": 0.9510636,
+            "bboxes": [
+                0.0,
+                0.9968731,
+                0.0,
+                0.9878735
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/7.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "8808510906532102144",
+            "predicted": "JZR_214_01",
+            "confidences": 0.70228153,
+            "bboxes": [
+                0.0,
+                0.97377884,
+                0.03102873,
+                0.9424106
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/41.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.9151945,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.0,
+                0.96223384
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/131.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.55016947,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.03463423,
+                0.97945213
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/78.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "7655589401925255168",
+            "predicted": "KOb_kontenerObudow",
+            "confidences": 0.989673,
+            "bboxes": [
+                0.0,
+                0.9765755,
+                0.0,
+                0.9653443
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/45.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.87643105,
+            "bboxes": [
+                0.0061412156,
+                1.0,
+                0.02388471,
+                0.99494207
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/29.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.50719637,
+            "bboxes": [
+                0.015880227,
+                1.0,
+                0.0,
+                0.98196256
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/121.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "7655589401925255168",
+            "predicted": "KOb_kontenerObudow",
+            "confidences": 0.9647778,
+            "bboxes": [
+                0.039809942,
+                0.9785125,
+                0.0,
+                0.9717978
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/106.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "4196824888104714240",
+            "predicted": "rzewiark",
+            "confidences": 0.8205775,
+            "bboxes": [
+                0.0,
+                0.9149774,
+                0.0050967634,
+                0.93322957
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/112.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.9431709,
+            "bboxes": [
+                0.017264962,
+                1.0,
+                0.0,
+                0.99666923
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/35.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.99175316,
+            "bboxes": [
+                0.0007767081,
+                1.0,
+                0.0,
+                1.0
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/33.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.9920625,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.0,
+                1.0
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/23.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "3043903383497867264",
+            "predicted": "other",
+            "confidences": 0.5751259,
+            "bboxes": [
+                0.06030339,
+                0.99758786,
+                0.047346387,
+                0.9855576
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/1.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.982385,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.0042027007,
+                1.0
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/130.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "7655589401925255168",
+            "predicted": "KOb_kontenerObudow",
+            "confidences": 0.39683655,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.0771835,
+                0.9955676
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/58.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.97493345,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.00962551,
+                1.0
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/5.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.9390409,
+            "bboxes": [
+                0.0,
+                0.7023647,
+                0.018831592,
+                0.9262802
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/79.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "7655589401925255168",
+            "predicted": "KOb_kontenerObudow",
+            "confidences": 0.9834826,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.0,
+                0.9969871
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/99.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "8808510906532102144",
+            "predicted": "JZR_214_01",
+            "confidences": 0.9291952,
+            "bboxes": [
+                0.0,
+                0.98697007,
+                0.0,
+                0.9232316
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/76.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.8522461,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.050058275,
+                0.96862507
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/6.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "3043903383497867264",
+            "predicted": "other",
+            "confidences": 0.4728979,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.0,
+                1.0
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/4.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "3043903383497867264",
+            "predicted": "other",
+            "confidences": 0.4221002,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.011457026,
+                1.0
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/117.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "7655589401925255168",
+            "predicted": "KOb_kontenerObudow",
+            "confidences": 0.9433063,
+            "bboxes": [
+                0.002343595,
+                0.8918472,
+                0.027380457,
+                0.9477403
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/74.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.96109605,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.013570601,
+                1.0
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/10.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.96462816,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.016363282,
+                0.99059725
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/47.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.969545,
+            "bboxes": [
+                0.00215891,
+                0.9998902,
+                0.005688518,
+                0.99999183
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/55.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.88944644,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.008650133,
+                0.9870835
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/107.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "8808510906532102144",
+            "predicted": "JZR_214_01",
+            "confidences": 0.91115284,
+            "bboxes": [
+                0.03917834,
+                1.0,
+                0.0,
+                0.9739889
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/57.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.9522785,
+            "bboxes": [
+                0.0058357716,
+                1.0,
+                0.0,
+                1.0
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/109.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.944679,
+            "bboxes": [
+                0.0,
+                0.8097151,
+                0.0024585866,
+                0.9957149
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/65.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "8808510906532102144",
+            "predicted": "JZR_214_01",
+            "confidences": 0.7422608,
+            "bboxes": [
+                0.025070101,
+                0.7950398,
+                0.023789579,
+                0.96924806
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/118.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "7655589401925255168",
+            "predicted": "KOb_kontenerObudow",
+            "confidences": 0.97185045,
+            "bboxes": [
+                0.0,
+                0.9631225,
+                0.0022372769,
+                0.95957434
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/43.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.8520373,
+            "bboxes": [
+                0.0,
+                0.7469442,
+                0.0,
+                0.9509216
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/128.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "8808510906532102144",
+            "predicted": "JZR_214_01",
+            "confidences": 0.43304062,
+            "bboxes": [
+                0.036143333,
+                0.98701453,
+                0.015295928,
+                0.96531665
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/72.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.83020574,
+            "bboxes": [
+                0.0,
+                0.8377094,
+                0.004711878,
+                1.0
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/114.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "7655589401925255168",
+            "predicted": "KOb_kontenerObudow",
+            "confidences": 0.86055905,
+            "bboxes": [
+                0.017513424,
+                0.8405869,
+                0.030389303,
+                0.94193727
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/77.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.93831706,
+            "bboxes": [
+                0.008308649,
+                1.0,
+                0.018674439,
+                0.9837846
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/129.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "3043903383497867264",
+            "predicted": "other",
+            "confidences": 0.6202842,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.0,
+                1.0
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/48.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.8512524,
+            "bboxes": [
+                0.0,
+                0.8429562,
+                0.0,
+                0.98438525
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/89.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "8808510906532102144",
+            "predicted": "JZR_214_01",
+            "confidences": 0.8595192,
+            "bboxes": [
+                0.07498586,
+                1.0,
+                0.0,
+                0.96309686
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/51.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "3043903383497867264",
+            "predicted": "other",
+            "confidences": 0.838805,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.0018387482,
+                1.0
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/102.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "4196824888104714240",
+            "predicted": "rzewiark",
+            "confidences": 0.7441833,
+            "bboxes": [
+                0.0,
+                0.9062172,
+                0.0,
+                0.9375229
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/75.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.97687095,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.0068542482,
+                1.0
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/134.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.9773203,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.012723953,
+                0.9889647
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/25.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.9046872,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.009344927,
+                0.9813906
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_wagon_object_detection/vertex/2.png",
+            "mimeType": "image/png"
+        },
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.49318486,
+            "bboxes": [
+                0.035101593,
+                1.0,
+                0.02934085,
+                0.96693563
+            ]
+        }
+    }
+]

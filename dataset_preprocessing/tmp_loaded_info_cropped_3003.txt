@@ -1,0 +1,7 @@
+Loaded 33 'JZR214_04' photos to resample.
+Loaded 52 'JZR_214_01' photos to resample.
+Loaded 70 'JZR_215_01' photos to resample.
+Loaded 77 'KOb_kontenerObudow' photos to resample.
+Loaded 25 'KZ_kontenerMater' photos to resample.
+Loaded 26 'rzewiark' photos to resample.
+Loaded 235 'urobkow' photos to resample.

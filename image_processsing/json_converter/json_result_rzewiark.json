@@ -1,0 +1,192 @@
+[
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/45_07.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "rzewiark",
+        "prediction": {
+            "id": "4196824888104714240",
+            "predicted": "rzewiark",
+            "confidences": 0.93829304,
+            "bboxes": [
+                0.0,
+                0.7994188,
+                0.0,
+                0.9997626
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/49_14.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "rzewiark",
+        "prediction": {
+            "id": "4196824888104714240",
+            "predicted": "rzewiark",
+            "confidences": 0.99874264,
+            "bboxes": [
+                0.015888691,
+                1.0,
+                0.0,
+                1.0
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/49_05.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "rzewiark",
+        "prediction": {
+            "id": "4196824888104714240",
+            "predicted": "rzewiark",
+            "confidences": 0.9982796,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.0,
+                1.0
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/9_03.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "rzewiark",
+        "prediction": {
+            "id": "4196824888104714240",
+            "predicted": "rzewiark",
+            "confidences": 0.9945311,
+            "bboxes": [
+                0.02923417,
+                1.0,
+                0.0,
+                0.9715254
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/33_03.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "rzewiark",
+        "prediction": {
+            "id": "4196824888104714240",
+            "predicted": "rzewiark",
+            "confidences": 0.9966041,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.0,
+                0.99999994
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/13_2.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "rzewiark",
+        "prediction": {
+            "id": "4196824888104714240",
+            "predicted": "rzewiark",
+            "confidences": 0.9854196,
+            "bboxes": [
+                0.0070414543,
+                0.99769974,
+                0.0027459336,
+                1.0
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/0_13.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "False",
+        "actual": "rzewiark",
+        "prediction": {
+            "id": "7655589401925255168",
+            "predicted": "KOb_kontenerObudow",
+            "confidences": 0.56568563,
+            "bboxes": [
+                0.0019302368,
+                0.947012,
+                0.01896067,
+                0.9834222
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/15_07.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "rzewiark",
+        "prediction": {
+            "id": "4196824888104714240",
+            "predicted": "rzewiark",
+            "confidences": 0.9943922,
+            "bboxes": [
+                0.0041297674,
+                1.0,
+                0.0,
+                0.9852449
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/0_22.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "rzewiark",
+        "prediction": {
+            "id": "4196824888104714240",
+            "predicted": "rzewiark",
+            "confidences": 0.99534166,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.0,
+                0.99999994
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/34_02.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "rzewiark",
+        "prediction": {
+            "id": "4196824888104714240",
+            "predicted": "rzewiark",
+            "confidences": 0.9683123,
+            "bboxes": [
+                0.023324192,
+                1.0,
+                0.0033808115,
+                1.0
+            ]
+        }
+    }
+]

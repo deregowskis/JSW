@@ -1,0 +1,249 @@
+[
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/7_10.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "False",
+        "actual": "JZR_215_01",
+        "prediction": {
+            "id": "1890981878891020288",
+            "predicted": "urobkow",
+            "confidences": 0.8927914,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.0,
+                1.0
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/28_11.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "JZR_215_01",
+        "prediction": {
+            "id": "449829998132461568",
+            "predicted": "JZR_215_01",
+            "confidences": 0.9216067,
+            "bboxes": [
+                0.03717953,
+                1.0,
+                0.0004898203,
+                0.989189
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/28_28.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "JZR_215_01",
+        "prediction": {
+            "id": "449829998132461568",
+            "predicted": "JZR_215_01",
+            "confidences": 0.9939663,
+            "bboxes": [
+                0.011621654,
+                1.0,
+                0.0,
+                0.98594767
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/19_10.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "JZR_215_01",
+        "prediction": {
+            "id": "449829998132461568",
+            "predicted": "JZR_215_01",
+            "confidences": 0.84488344,
+            "bboxes": [
+                0.009658426,
+                0.96828103,
+                0.0,
+                0.91565484
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/29_01.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "JZR_215_01",
+        "prediction": {
+            "id": "449829998132461568",
+            "predicted": "JZR_215_01",
+            "confidences": 0.97353685,
+            "bboxes": [
+                0.007557988,
+                1.0,
+                0.019444192,
+                0.9200039
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/10_04.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "JZR_215_01",
+        "prediction": {
+            "id": "449829998132461568",
+            "predicted": "JZR_215_01",
+            "confidences": 0.9809147,
+            "bboxes": [
+                0.032851875,
+                1.0,
+                0.005003673,
+                0.97224694
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/34_04.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "JZR_215_01",
+        "prediction": {
+            "id": "449829998132461568",
+            "predicted": "JZR_215_01",
+            "confidences": 0.98429257,
+            "bboxes": [
+                0.013982207,
+                1.0,
+                0.0,
+                0.9813354
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/45_03.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "JZR_215_01",
+        "prediction": {
+            "id": "449829998132461568",
+            "predicted": "JZR_215_01",
+            "confidences": 0.9697259,
+            "bboxes": [
+                0.013629198,
+                1.0,
+                0.007204477,
+                0.994032
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/47_05.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "JZR_215_01",
+        "prediction": {
+            "id": "449829998132461568",
+            "predicted": "JZR_215_01",
+            "confidences": 0.9399644,
+            "bboxes": [
+                0.048068076,
+                0.99130213,
+                0.057689954,
+                0.92770666
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/44_12.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "JZR_215_01",
+        "prediction": {
+            "id": "449829998132461568",
+            "predicted": "JZR_215_01",
+            "confidences": 0.9619352,
+            "bboxes": [
+                0.051196396,
+                1.0,
+                0.09095936,
+                0.8843134
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/44_05.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "JZR_215_01",
+        "prediction": {
+            "id": "449829998132461568",
+            "predicted": "JZR_215_01",
+            "confidences": 0.9396018,
+            "bboxes": [
+                0.0075709224,
+                1.0,
+                0.0,
+                0.9779135
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/24_01.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "JZR_215_01",
+        "prediction": {
+            "id": "449829998132461568",
+            "predicted": "JZR_215_01",
+            "confidences": 0.981229,
+            "bboxes": [
+                0.030106783,
+                1.0,
+                0.008312849,
+                0.9891888
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/29_08.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "False",
+        "actual": "JZR_215_01",
+        "prediction": {
+            "id": "3043903383497867264",
+            "predicted": "other",
+            "confidences": 0.82968295,
+            "bboxes": [
+                0.030776203,
+                0.9901431,
+                0.02547907,
+                0.97198766
+            ]
+        }
+    }
+]

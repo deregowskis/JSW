@@ -1,0 +1,173 @@
+[
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/5_02.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "KZ_kontenerMater",
+        "prediction": {
+            "id": "5349746392711561216",
+            "predicted": "KZ_kontenerMater",
+            "confidences": 0.9958834,
+            "bboxes": [
+                0.031212837,
+                1.0,
+                0.0019118586,
+                0.94560367
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/3_20.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "KZ_kontenerMater",
+        "prediction": {
+            "id": "5349746392711561216",
+            "predicted": "KZ_kontenerMater",
+            "confidences": 0.9895187,
+            "bboxes": [
+                0.0,
+                0.99899673,
+                0.0,
+                0.9928499
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/18_04.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "KZ_kontenerMater",
+        "prediction": {
+            "id": "5349746392711561216",
+            "predicted": "KZ_kontenerMater",
+            "confidences": 0.95997804,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.02953747,
+                0.9945226
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/44_07.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "KZ_kontenerMater",
+        "prediction": {
+            "id": "5349746392711561216",
+            "predicted": "KZ_kontenerMater",
+            "confidences": 0.99332654,
+            "bboxes": [
+                0.040281028,
+                0.9993998,
+                0.008387494,
+                0.9663029
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/15_02.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "KZ_kontenerMater",
+        "prediction": {
+            "id": "5349746392711561216",
+            "predicted": "KZ_kontenerMater",
+            "confidences": 0.9978629,
+            "bboxes": [
+                0.0,
+                0.99992836,
+                0.0,
+                0.94353133
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/11_13.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "KZ_kontenerMater",
+        "prediction": {
+            "id": "5349746392711561216",
+            "predicted": "KZ_kontenerMater",
+            "confidences": 0.99848264,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.0018762471,
+                0.992892
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/39_07.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "KZ_kontenerMater",
+        "prediction": {
+            "id": "5349746392711561216",
+            "predicted": "KZ_kontenerMater",
+            "confidences": 0.9967866,
+            "bboxes": [
+                0.0,
+                1.0,
+                0.032602437,
+                0.9696243
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/0_4.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "KZ_kontenerMater",
+        "prediction": {
+            "id": "5349746392711561216",
+            "predicted": "KZ_kontenerMater",
+            "confidences": 0.9989749,
+            "bboxes": [
+                0.022143602,
+                0.9999138,
+                0.016556997,
+                0.97119313
+            ]
+        }
+    },
+    {
+        "instance": {
+            "content": "gs://wozy_cropped_3003_org_aug/0_19.png",
+            "mimeType": "image/png"
+        },
+        "isTrue": "True",
+        "actual": "KZ_kontenerMater",
+        "prediction": {
+            "id": "5349746392711561216",
+            "predicted": "KZ_kontenerMater",
+            "confidences": 0.99935836,
+            "bboxes": [
+                0.01227057,
+                1.0,
+                0.0011656524,
+                0.98918664
+            ]
+        }
+    }
+]
